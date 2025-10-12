@@ -60,7 +60,7 @@ Here are a few projects that capture my current direction:
 ## 🌐 Connect & Collaborate  
 
 - 📧 [bishal.panthi@vanderbilt.edu](mailto:bishal.panthi@vanderbilt.edu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bishal-panthi-5b37bb218)  
+- ![alt text](image.png) [LinkedIn](https://www.linkedin.com/in/bishal-panthi-5b37bb218)  
 - 💻 [GitHub](https://github.com/bishalpanthi321)  
 
 ---
