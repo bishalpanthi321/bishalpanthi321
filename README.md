@@ -2,11 +2,11 @@
 
 ---
 
-## ✨ Unseen Story  
+## ✨ Byzantine   
 
-- I’m fascinated by **failure modes** in models — knowing *when* AI fails is as important as when it succeeds.  
+- I’m fascinated by **failure modes** in models knowing *when* AI fails is as important as when it succeeds.  
 - I love building **little tools** that save *5 minutes* per day — they multiply across months and teams.  
-- I read *non-tech* books (philosophy, fiction) to keep my thinking flexible — they often spark ideas for models.  
+- I read *non-tech* books (philosophy, fiction) to keep my thinking flexible  they often spark ideas for models.  
 - When stuck on a bug, I sometimes sketch ideas on paper and debug *by hand* (yeah, pen and paper).  
 
 ---
